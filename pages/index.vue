@@ -6,7 +6,7 @@
         story-of-time
       </h1>
       <h2 class="subtitle">
-        It's a good start!
+        It's a good start! I'm a better man!
       </h2>
       <div class="links">
         <a href="https://nuxtjs.org/" target="_blank" class="button--green">Documentation</a>

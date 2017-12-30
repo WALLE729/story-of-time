@@ -5,14 +5,7 @@
       <h1 class="title">
         story-of-time
       </h1>
-      <h2 class="subtitle">
-        It's a good start! I'm a better man!
-      </h2>
-      <div class="links">
-        <a href="https://nuxtjs.org/" target="_blank" class="button--green">Documentation</a>
-        <a href="https://github.com/nuxt/nuxt.js" target="_blank" class="button--grey">GitHub</a>
-        <router-link to="/yida">Go to Yida</router-link>
-      </div>
+      <router-link to="/">Go Back</router-link>
     </div>
   </section>
 </template>

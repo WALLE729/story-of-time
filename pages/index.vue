@@ -3,7 +3,7 @@
     <div>
       <logo/>
       <h1 class="title">
-        start
+        Are you crizay ?
       </h1>
       <h2 class="subtitle">
         It's a good start! I'm a better man!

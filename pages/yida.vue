@@ -5,7 +5,7 @@
       <h1 class="title">
         story-of-time
       </h1>
-      <router-link to="/">Go Back</router-link>
+      <router-link to="/">Go Back2</router-link>
     </div>
   </section>
 </template>

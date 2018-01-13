@@ -10,7 +10,9 @@ module.exports = {
       name      : 'story',
       script    : __dirname + '/node_modules/nuxt/bin/nuxt',
       env: {
-        COMMON_VARIABLE: 'true'
+        COMMON_VARIABLE: 'true',
+        "HOST": "0.0.0.0",
+        "PORT": "3333"
       },
       env_production : {
         NODE_ENV: 'production'

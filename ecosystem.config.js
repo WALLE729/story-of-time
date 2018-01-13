@@ -29,7 +29,7 @@ module.exports = {
       host : '39.104.67.13',
       ref  : 'origin/master',
       repo : 'git@github.com:WALLE729/story-of-time.git',
-      path : '/root/data/story',
+      path : '/var/www/story',
       'post-deploy' : 'npm install && pm2 reload ecosystem.config.js --env production'
     },
     dev : {
